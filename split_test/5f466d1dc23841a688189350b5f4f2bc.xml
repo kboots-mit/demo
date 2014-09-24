@@ -1,0 +1,4 @@
+<split_test group_id_to_child="{&quot;995375906207&quot;: &quot;i4x://edX/DemoX/vertical/74dc989c9c0d4e0ebd46e1595521f977&quot;, &quot;161364231339&quot;: &quot;i4x://edX/DemoX/vertical/5426e3315fed4547942656e8e3295d06&quot;}" user_partition_id="348583781852">
+  <vertical url_name="5426e3315fed4547942656e8e3295d06"/>
+  <vertical url_name="74dc989c9c0d4e0ebd46e1595521f977"/>
+</split_test>
